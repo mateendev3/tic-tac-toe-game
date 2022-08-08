@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyTicTacToe</string>
+
+    <string name="welcome_msg">Welcome! Please Tap To Start</string>
+    <string name="player_O_won">Player O Won</string>
+    <string name="player_X_won">Player X Won</string>
+
+    <string name="player_O_turn">Player O\'s Turn</string>
+    <string name="player_X_turn">Player X\'s Turn</string>
+
+    <string name="o_value">O</string>
+    <string name="x_value">X</string>
+
+
+
+    <string name="reset_btn">Reset</string>
+
+</resources>
